@@ -14,7 +14,7 @@
 ## 👋 Who I Am
 
 
-```transcript
+```typescript
 const rohitKumarSingh = {
   title: "Aspiring AI/ML Researcher | B.Tech CSE Student",
   location: "Malout, Punjab, India",
@@ -30,19 +30,15 @@ const rohitKumarSingh = {
   certifications: [], // none yet — learning through hands-on projects
   status: "🔭 Currently building a text summarizer in Python",
   openTo: "AI/ML collaborations & interesting web projects",
-} as const;  
+} as const;
 ```
-
-these codes not working
-
-
 <br/>
 
 ## 🚀 Featured Projects
 
 ### 🤖 DITRI-AI
 
-<img src="Screenshot 2025-10-25 202432.png" alt="DITRI-AI repo card"/>
+<img src="https://github.com/rohit4500-coder/DITRI-AI" alt="DITRI-AI repo card"/>
 
 An AI assistant web app with real-time chat, voice input, and file upload, built on a Supabase backend.
 
