@@ -13,7 +13,7 @@
 
 ## 👋 Who I Am
 
-```typescript
+
 const rohitKumarSingh = {
   title: "Aspiring AI/ML Researcher | B.Tech CSE Student",
   location: "Malout, Punjab, India",
@@ -30,7 +30,7 @@ const rohitKumarSingh = {
   status: "🔭 Currently building a text summarizer in Python",
   openTo: "AI/ML collaborations & interesting web projects",
 } as const;
-```
+
 
 <br/>
 
@@ -38,7 +38,7 @@ const rohitKumarSingh = {
 
 ### 🤖 DITRI-AI
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rohit4500-coder&repo=DITRI-AI&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="DITRI-AI repo card"/>
+<img src="Screenshot 2025-10-25 202432.png" alt="DITRI-AI repo card"/>
 
 An AI assistant web app with real-time chat, voice input, and file upload, built on a Supabase backend.
 
