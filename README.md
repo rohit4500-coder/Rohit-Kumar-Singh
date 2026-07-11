@@ -14,6 +14,7 @@
 ## 👋 Who I Am
 
 
+```
 const rohitKumarSingh = {
   title: "Aspiring AI/ML Researcher | B.Tech CSE Student",
   location: "Malout, Punjab, India",
@@ -29,7 +30,10 @@ const rohitKumarSingh = {
   certifications: [], // none yet — learning through hands-on projects
   status: "🔭 Currently building a text summarizer in Python",
   openTo: "AI/ML collaborations & interesting web projects",
-} as const;
+} as const;   
+```
+
+these codes not working
 
 
 <br/>
