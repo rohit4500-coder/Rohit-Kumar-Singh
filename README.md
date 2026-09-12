@@ -159,4 +159,22 @@ Also working with: **NumPy · Pandas · Matplotlib · Seaborn**
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=rohit4500-coder&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohit4500-coder&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5&cache_seconds=86400" alt="Rohit's GitHub Stats" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit4500-coder&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5&cache_seconds=86400" alt="Top Languages" width="48%"/>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer&animation=twinkling" width="100%"/>
