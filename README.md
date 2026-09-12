@@ -54,7 +54,7 @@ An end-to-end Machine Learning web application that predicts whether a passenger
 | Machine Learning | scikit-learn        |
 | Data Processing  | Pandas, NumPy       |
 | Visualization    | Matplotlib, Seaborn |
-| Web App          | Streamlit           |
+| Web App          | Flask               |
 | Deployment       | Render              |
 
 ### 🔑 Key Features
@@ -95,7 +95,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and learn
 
 <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,html,css&theme=dark" alt="Languages"/>
 
-**AI / ML**
+**AI/ML**
 
 <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="AI/ML"/>
 
