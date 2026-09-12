@@ -13,56 +13,77 @@
 
 ## 👋 Who I Am
 
-
 ```typescript
 const rohitKumarSingh = {
   title: "Aspiring AI/ML Researcher | B.Tech CSE Student",
   location: "Malout, Punjab, India",
   stack: [
     "Python", "C++", "JavaScript", "TypeScript",
-    "React", "MySQL", "Supabase", "scikit-learn",
+    "React", "MySQL", "scikit-learn",
   ],
-  launchedProjects: [
-    "DITRI-AI — AI assistant web app",
-    "Personal Portfolio — rohit-coder45.netlify.app",
+  majorProjects: [
+    "Titanic AI Survival Predictor",
+    "Personal Portfolio",
     "Digital ID Card Generator",
   ],
-  certifications: [], // none yet — learning through hands-on projects
-  status: "🔭 Currently building a text summarizer in Python",
-  openTo: "AI/ML collaborations & interesting web projects",
+  certifications: [],
+  status: "🔭 Currently building a Text Summarizer in Python",
+  openTo: "AI/ML collaborations & interesting projects",
 } as const;
 ```
+
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Major Project
 
-### 🤖 DITRI-AI
+### 🚢 Titanic AI Survival Predictor
 
-<img src="https://github.com/rohit4500-coder/DITRI-AI" alt="DITRI-AI repo card"/>
+<a href="https://titanic-ai-survival-predictor-1.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Titanic%20AI%20Predictor-7dd3fc?style=for-the-badge&logoColor=0f172a" alt="Live Demo"/>
+</a>
 
-An AI assistant web app with real-time chat, voice input, and file upload, built on a Supabase backend.
+<a href="https://github.com/rohit4500-coder/Titanic-AI-Survival-Predictor" target="_blank">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-| Layer | Technology |
-|---|---|
-| Frontend | React, TypeScript |
-| Styling | Tailwind CSS |
-| Backend | Supabase |
+An end-to-end Machine Learning web application that predicts whether a passenger would survive the Titanic disaster based on passenger information.
 
-🔗 [Code](https://github.com/rohit4500-coder/DITRI-AI)
+| Layer            | Technology          |
+| ---------------- | ------------------- |
+| Language         | Python              |
+| Machine Learning | scikit-learn        |
+| Data Processing  | Pandas, NumPy       |
+| Visualization    | Matplotlib, Seaborn |
+| Web App          | Streamlit           |
+| Deployment       | Render              |
 
-### 🎨 Personal Portfolio
+### 🔑 Key Features
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rohit4500-coder&repo=portfolioUi&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="portfolioUi repo card"/>
+* Passenger survival prediction using Machine Learning
+* Data preprocessing and feature handling
+* Trained ML classification model
+* Interactive prediction interface
+* Deployed live on Render
+* Complete source code available on GitHub
 
-A modern, responsive portfolio site with GSAP-powered animations and a dark/light theme toggle.
+🔗 **[Live Demo](https://titanic-ai-survival-predictor-1.onrender.com/)** • **[GitHub Repository](https://github.com/rohit4500-coder/Titanic-AI-Survival-Predictor)**
 
-| Layer | Technology |
-|---|---|
-| Structure | HTML5 |
-| Styling | CSS3, GSAP, ScrollTrigger |
-| Interactivity | JavaScript (ES6) |
+<br/>
 
-🔗 [Live](https://rohit-coder45.netlify.app/) • [Code](https://github.com/rohit4500-coder/portfolioUi)
+## 🎨 Personal Portfolio
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rohit4500-coder&repo=portfolioUi&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Portfolio Repository"/>
+
+A modern, responsive portfolio website showcasing my skills, projects, and learning journey.
+
+| Layer         | Technology          |
+| ------------- | ------------------- |
+| Structure     | HTML5               |
+| Styling       | CSS3                |
+| Animation     | GSAP, ScrollTrigger |
+| Interactivity | JavaScript (ES6)    |
+
+🔗 **[Live Portfolio](https://rohit-coder45.netlify.app/)** • **[GitHub Code](https://github.com/rohit4500-coder/portfolioUi)**
 
 <br/>
 
@@ -78,11 +99,13 @@ A modern, responsive portfolio site with GSAP-powered animations and a dark/ligh
 
 <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="AI/ML"/>
 
-Also working with: NumPy · Pandas · Matplotlib · Seaborn
+<br/>
+
+Also working with: **NumPy · Pandas · Matplotlib · Seaborn**
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
 
 **Dev Tools & Frameworks**
 
@@ -97,13 +120,20 @@ Also working with: NumPy · Pandas · Matplotlib · Seaborn
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rohit4500-coder&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" alt="Rohit's GitHub Stats" width="48%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit4500-coder&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" alt="Top Languages" width="48%"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=rohit4500-coder&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohit4500-coder&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit4500-coder&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rohit4500-coder&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit4500-coder&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
 
 </div>
 
@@ -113,14 +143,20 @@ Also working with: NumPy · Pandas · Matplotlib · Seaborn
 
 <div align="center">
 
-<a href="https://linkedin.com/in/rohitksingh45"><img src="https://img.shields.io/badge/LinkedIn-rohitksingh45-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0f172a" alt="LinkedIn"/></a>
-<a href="mailto:rohitsinghkusauni@gmail.com"><img src="https://img.shields.io/badge/Email-rohitsinghkusauni-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0f172a" alt="Email"/></a>
-<a href="https://rohit-coder45.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-rohit--coder45.netlify.app-7dd3fc?style=for-the-badge&logo=netlify&logoColor=0f172a" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/rohitksingh45">
+<img src="https://img.shields.io/badge/LinkedIn-rohitksingh45-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0f172a" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:rohitsinghkusauni@gmail.com">
+<img src="https://img.shields.io/badge/Email-rohitsinghkusauni-7dd3fc?style=for-the-badge&logo=gmail&logoColor=0f172a" alt="Email"/>
+</a>
+
+<a href="https://rohit-coder45.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-rohit--coder45.netlify.app-7dd3fc?style=for-the-badge&logo=netlify&logoColor=0f172a" alt="Portfolio"/>
+</a>
 
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer&animation=twinkling" width="100%"/>
-
-</div>
